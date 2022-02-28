@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The reall victorie of Portugall, against the povvers of Spaine. And her veritie, confronting the Castilian lyes. / Coppied out of the relations that came from Lisboa by Baltazar Oliveras.</title>
+            <author>Oliveras, Balthazar.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90141</idno>
+            <idno type="STC">Wing O284</idno>
+            <idno type="STC">Thomason E253_12</idno>
+            <idno type="STC">ESTC R210066</idno>
+            <idno type="EEBO-CITATION">99868897</idno>
+            <idno type="PROQUEST">99868897</idno>
+            <idno type="VID">159154</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90141)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159154)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 43:E253[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The reall victorie of Portugall, against the povvers of Spaine. And her veritie, confronting the Castilian lyes. / Coppied out of the relations that came from Lisboa by Baltazar Oliveras.</title>
+                  <author>Oliveras, Balthazar.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>in the yeare. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July. 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Portugal --  Foreign relations --  Spain --  Early works to 1800.</term>
+               <term>Spain --  Foreign relations --  Portugal --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159154:1" rendition="simple:additions"/>
+            <p>The Reall VICTORIE OF PORTVGALL, Againſt The Powers of Spaine AND Her veritie, confronting the
+<hi>Caſtilian</hi> Lyes.</p>
+            <p>Coppied out of the relations that came from <hi>Lisboa</hi> by <hi>Baltazar Oliveras.</hi>
+            </p>
+            <p>Printed at LONDON in the yeare. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:159154:2"/>
+            <pb n="1" facs="tcp:159154:2"/>
+            <head>
+               <hi>The reall Victorie of Portugall,</hi> Againſt the Powers of Spaine. And her verity, Confronting the Caſtilian lyes.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is ſo fatall to the <hi>Spaniard</hi> to be beaten by th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Portugueſſes,</hi> that not content to be overcome b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> force of Armes, they invent new wayes to aug<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ment their own overthrowes: and this appeareth evident by their late publiſhing a mighty victory which they (forſooth) had newly obtained over the
+<hi>Portugueſſes</hi> in the skirts of <hi>Spaine;</hi> whereas within very few dayes after this lowd lyes publication, there arrived here moſt certain newes of the ſelfeſame defeat given in the ſame time and place, unto the <hi>Spaniards,</hi> by the <hi>Portugueſſes,</hi> which they had vapoured to have bin given by them unto the <hi>Portugueſſes,</hi> ſo that by this we ſee the <hi>Spaniards</hi> are not content to be quelled by the ſword of the
+<hi>Portu<g ref="char:EOLhyphen"/>gall,</hi> but they muſt needs alſo be confounded by their own lyes, to make their ſhame the greater.</p>
+            <p>Whence it may be hoped the world in time will be diſabuſed to ſee this ſi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>king Nation endeavour to ſubſiſt by couching all her weake affaires, under the maſque of impudent lyes: For to what other end could ſhe elſe (knowing her ſelf actually beaten) vaunt of a victory at the ſame inſtant over her greateſt Enemie? ſo to redouble her own overthrow, and make ſuſpected the reality of the Victors glory, if yet we may call that a victory which was obtained over a Nation that hath even annihilated her ſelf, by lay<g ref="char:EOLhyphen"/>ing her beſt foundations upon the empty nothing of meer chy<g ref="char:EOLhyphen"/>meraes and lyes.</p>
+            <pb n="2" facs="tcp:159154:3"/>
+            <p>Behold the true State of this affaire: <hi>Matthias de Alberquer<g ref="char:EOLhyphen"/>que</hi> Generall of the Principall Army which the King of <hi>Portugall</hi>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> now on foot againſt the King of
+<hi>Caſtile,</hi> whileſt hee was re<g ref="char:EOLhyphen"/>crewting his forces, to put in execution ſome notable deſigne (in continuation of his Conqueſt of all the <hi>Extremadura</hi> joyning upon the borders of <hi>Portugall,</hi> where in his laſt yeers Expeditions, his Excellence had wreſted from the <hi>Spaniards</hi> 9. Townes of importance, beſides many other places of conſequence) made an advance into <hi>Castilia,</hi> with the forces he had then together, ſo to keep both his own, and his Enemies forces from being idle, whileſt his greater powers were aſſembling to a body. And as he was retreating from ſome place in the ſaid Province of <hi>Castile,</hi> after he had there burned the Town of <hi>Montigo.</hi> Loe, the <hi>Count de Montigo,</hi> Generall of the Caſtilian powers, finding his Ene<g ref="char:EOLhyphen"/>mie at an advantage, upon the 26. of May <hi>ſtilo novo</hi> bids him battell, the Spaniſh Army then conſiſting of 2600. horſe, and of 12000. foote; what with thoſe their ſaid Generall had himſelf in pay, and what with ſome others that were joyned unto him, un<g ref="char:EOLhyphen"/>der the conduct of the <hi>Marques de Teracuza,</hi> Generall of the Spaniſh Forces in <hi>Badayoz,</hi> which were drawn then out of the Province of
+<hi>Andaluſia,</hi> to make a reinforcement, thereby to pre<g ref="char:EOLhyphen"/>vent the daily loſſes they ſuſtained by the <hi>Portugals.</hi> In which ſaid Army the Caſtilians had 12. peeces of Artillery, each carrying bullet of 15. pound weigth: whileſt yet the Armie of the
+<hi>Portugueſſes</hi> at that inſtant conſiſted onely of 1100, horſe, and little more then 11000. foot, not having any Cannon of conſe<g ref="char:EOLhyphen"/>quence at all, becauſe they went out of Portugall with a light fly<g ref="char:EOLhyphen"/>ing Army purpoſely to burne the ſaid Town and ſo to retreat againe.</p>
+            <p>Nevertheleſſe the <hi>Portugueſſes</hi> being accuſtomed to overcome greater odds than theſe, accepted cheerfully of the battell bidden by the <hi>Spaniards,</hi> and inſtantly drew themſelves into a brave ſqua<g ref="char:EOLhyphen"/>dron with two winges thereupon attending, placing in the right wing their Generall of the Horſe, <hi>Franciſco de Mello,</hi> Maſter of the Game unto his Majeſtie of Portugall, with 600. of their horſe. And in the left wing the Commiſſary of the horſe (<hi>Don
+<pb n="3" facs="tcp:159154:3"/>Rodrigo de Caſtro</hi> their Lievetenant Generall being at that time abſent and ſick in <hi>Portugall</hi>) with 500. Horſe of the
+<hi>Hollanders</hi> and other Forrainers, which were all the troops of Forrainers that are actually in the King of Portugals ſervice.</p>
+            <p>The <hi>Caſtilians</hi> alſo ſquadraning themſelves in like Battalia putting in one of their wings 1000. and in the other 1600. Horſe.</p>
+            <p>Which done, the 1000. <hi>Spaniſh</hi> horſe did inſtantly inviron the 500. horſe of the Forrainers, on the adverſe partee, who giving ground to the greater number of their Enemies, after a ve<g ref="char:EOLhyphen"/>ry ſhort skirmiſh, retyred ſo impetuouſly to their Portugall Infantery, as they put them into much diſorder, ſo as the 1000. <hi>Caſtilian</hi> horſe ruſhed in amongſt them with a mighty fury, which being perceived by the two Maſters of the Campe, <hi>Don Nunio Maſcharenhas</hi> and <hi>Ayres de Saldanha,</hi> who led up the van<g ref="char:EOLhyphen"/>gard of the
+<hi>Portugueſses,</hi> they inſtantly ſet upon the <hi>Caſtilian</hi> vangard, with ſuch dexterity and valour together, as it was hard to ſay, whethers valour at that time was the greater, the reſiſting <hi>Portugals,</hi> or the aſſailing <hi>Spaniards,</hi> puffed up with his pride of having broken the rankes of his Enemie, and placed himſelfe in the midſt of their Squadrons.</p>
+            <p>This irruption of the Spaniſh horſe, into the ſquadrons of the <hi>Portugueſſes,</hi> did ſomewhat affright their Right wing of Horſe, and made them retreat to the body of their owne army, yet ſo, as ſtill in their retreating, to make a brave reſiſtance unto the Spaniſh horſe, purſuing them with that great oddes above men<g ref="char:EOLhyphen"/>tioned of 1600. againſt 600. only.</p>
+            <p>In this diſaſterous circumſtance the Generall of the <hi>Portugueſ<g ref="char:EOLhyphen"/>ſes</hi> Army (whoſe horſe was ſlain as his Excellence was moun<g ref="char:EOLhyphen"/>ting on him) drew his ſword, and with an undaunted reſolu<g ref="char:EOLhyphen"/>tion marches up on foot to the face of his Enemie, crying out with a lowde voyce unto his owne ſouldiers, <hi>Eae, Come on my ſons, for your Countrey, for your King, and for the reputation of the Portugueſſes;</hi> whoſe brave example, joyned to the naturall fervour of the <hi>Portugals,</hi> put new mettle into them all, in ſo much that inſtantly <hi>Don Iohn de Coſta,</hi> Maſter Generall of the Cam<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſe<g ref="char:EOLhyphen"/>conded
+<pb n="4" facs="tcp:159154:4"/>by <hi>Lewis de Silva, Franciſco de Mello de Caſtro,</hi> and <hi>Pedro de Albuquerque</hi> all Maſters of the Campe (who amidſt this confuſion never loſt the lively and ſenſible preſence to them<g ref="char:EOLhyphen"/>ſelves of Military Diſcipline) come up ſo bravely that they did not only inviron the ſaid 1000. Spaniſh horſe, but in ſhort time alſo cut them all in peeces with their ſwords, not leaving a man of the Enemie alive, who indeed fought it out ſo gallantly, as they rather choſe to dye fighting, than to live by flying. But above all, the vangard did moſt preſſe the Enemie, and after a long encounter with the ſingle ſword, put the Spaniards van to flight, yet this was not done, till all the Spaniſh Officers were ſlaine before their faces. Meane while the Generall of the Portugall horſe ſo charged the ſtanding wing of the Enemie, that finally he made them run to the reſt of their van, that before had fled away.</p>
+            <p>This battell laſted from ten a clock in the morning untill three a clock in the after-noon, at which time the Spanyard betook him<g ref="char:EOLhyphen"/>ſelfe to the upon the ſpeed, being purſued by the Portugueſſes a<g ref="char:EOLhyphen"/>bout a league.</p>
+            <p>There remained dead in the place of the ſaid battell, the ſaid 1000 Spaniſh horſe, and above 100 of their other horſe in the right wing, as alſo 2500 Spaniſh foot, amongſt whom one was their owne Generall, the Count <hi>de Montigo,</hi> and their Maſter of the Camp Generall, and the Marquis <hi>de Barca Rota,</hi> with above 150 Knights of the holy habit and militarie orders, as alſo all the chiefe Officers of their whole Army. In fine, many more were ſlaine, of whom we know not as yet the juſt number though it be eſteemed to be above 500; beſides many others that were drow<g ref="char:EOLhyphen"/>ned in their flight over a river, the number whereof is yet un<g ref="char:EOLhyphen"/>knowne; as alſo it is uncertaine what number of the Spanyards were wounded. Beſides, there were taken priſoners 2000 Caſti<g ref="char:EOLhyphen"/>lians, amongſt whom were many perſons of verie great qualitie: and that which makes this victorie yet more accompliſhed, was, that the Spanyards left behind them all their Artillerie, and their baggage, many of their horſe, and a great quantitie of Armes, wherof their muskets only amount to the number of 4000.</p>
+            <pb n="5" facs="tcp:159154:4"/>
+            <p>There were only ſlaine of the Portugueſſes 300 foot, or there<g ref="char:EOLhyphen"/>abouts, amongſt whom were the two ſaid Maſters of the Camp in their Vangards, <hi>Don Nunio Maſcarenhas,</hi> and
+<hi>Aires de Saldanha,</hi> who had both the greateſt ſhares in this victorie before they loſt their lives; beſides one Captain of foot, one Sargeant Major, and a<g ref="char:EOLhyphen"/>bout 200 that were hurt, but not dangerouſly. Of their horſe they loſt above 100, and one Captaine of horſe was flaine, beſides 150 horſe-men-wounded, though none of them mortally.</p>
+            <p>In further remonſtrance of this victorie the Portugueſſes kept the field untill the next day, in which they ſent their priſoners into Portugall, together with the ſpoyles taken from their enemies, and with their owne dead bodies to be buried with honour. And at the ſame inſtant that this newes went to Portugall, the conque<g ref="char:EOLhyphen"/>ring Army continued their happie progreſſe into the enemies countrey without finding ſo much as one Spanyard to appeare, more than thoſe that were retired into their Garriſons: and it is conceived, that while the reſt of the intended forces of Portugall were gathering together, (who had not then reached their advan<g ref="char:EOLhyphen"/>cing Generall) the Portugueſſes had laid a ſiege to ſome towne of conſequence in the enemies countrey.</p>
+            <p>This was one of the beſt fought battels that ever was fought in Spaine, as having laſted five houres in a continuall fight at ſingle ſword; wherein the glorie of the Portugueſſes was the greater, becauſe they fought upon great diſadvantage againſt the Spani<g ref="char:EOLhyphen"/>ards, and yet made ſo great a ſlaughter on their enemie with ſo little loſſe of their owne bloud, how ever the loſſe of the two re<g ref="char:EOLhyphen"/>nowned Maſters of the field before-mentioned is much lamented by them; by reaſon they were both young men, of verie great ex<g ref="char:EOLhyphen"/>pectation.</p>
+            <p>In <hi>Lisboa</hi> upon newes of this victorie, were made fires of joy, the King at the ſame time accompanied with the Prince, and all his Nobilitie then in Court going to the Cathedrall Church to give thanks with all due ſolemnitie unto A mightie God for this victorie: and creating the Generall of this victorious Armie <hi>Matthias de Alberqucrque</hi> Count of <hi>Alegre<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> gave him a revenue of 4000 Ducats a yeare: as alſo his Majeſtie gave many royall re<g ref="char:EOLhyphen"/>wards
+<pb n="6" facs="tcp:159154:5"/>unto the heires of thoſe Portugueſſes who loſt their lives in this ſaid battell.</p>
+            <p>There are alſo newes of other victories which the powers of Portugall have obtained againſt the Caſtilians upon the divers frontiers of the two Kingdomes: as that of <hi>Don Sancho Manual</hi> Maſter of the Camp, Generall of another Army of Portugueſſes in the province of Beira having taken the towne of Yava, which conſiſteth of 3000 houſes, where hee found about the value of 200000 Ducats in ſpoyles, and where 600 Spanyards retyring themſelves into a certaine Church (where they had all their pow<g ref="char:EOLhyphen"/>der,) were all blowne up by a caſuall fire that lighted on their pow<g ref="char:EOLhyphen"/>der.</p>
+            <p>In like manner the Count of <hi>Caſtello Melior,</hi> Generall of another Army of Portugueſſes, in the towne of <hi>Salvatierra</hi> in <hi>Gallicia,</hi> which he took the laſt ſummer from the Spanyards, con<g ref="char:EOLhyphen"/>tinueth his conqueſt in that Kingdome.</p>
+            <p>Other incurſions upon the Spanyards are alſo made by <hi>Don Iohn de Souſa</hi> Generall of the <hi>Portugall</hi> Forces beyond the Moun<g ref="char:EOLhyphen"/>taines, whereof here is made no particular mention, becauſe they are not matters ſo remarkable as theſe above rehearſed.</p>
+            <p>And this ſaid battell is the more punctually here related be<g ref="char:EOLhyphen"/>cauſe the Spaniards in this City had given it out laſt week the cleane contrary way, as if the victory had been theirs. Whence the world may underſtand that from this time forward, there ſhall never need any other relation of what paſſeth between the Spaniard and his Enemies but onely to take the ſelfe ſame ſtory, which the Spaniard tels of his proceedings, and relate it quite contrary, for that will ever prove to be the truth of the buſineſſe, as it doth in this battell above, betweene the two ſaid Nations.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
